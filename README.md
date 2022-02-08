@@ -3,3 +3,5 @@
 ![Annotation 2022-01-21 223702](https://user-images.githubusercontent.com/68156453/153027719-fa5233f0-3c4a-45ea-abb1-009ad764226f.jpg)
 ![Annotation 2022-01-21 223835](https://user-images.githubusercontent.com/68156453/153027911-0354583a-78b9-4ca7-8e42-407cf7327fd8.jpg)
 ![Annotation 2022-01-21 223856](https://user-images.githubusercontent.com/68156453/153027986-ca4d2637-7608-4d77-a665-f1af53a12327.jpg)
+
+Tech Stack Used- Streamlit, Numpy,tensorflow,pandas,keras etc.
